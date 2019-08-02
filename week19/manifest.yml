@@ -1,0 +1,4 @@
+applications:
+- name: next-cloud-test
+  random-route: true
+  path: target\demo-0.0.1-SNAPSHOT.jar
